@@ -1,0 +1,9 @@
+{
+	"name":"FMB_NAME",
+	"author":"FMB_AUTHOR",
+	"version":"FMB_VERSION",
+	"title":"FMB_NAME",
+	"homepage":"FMB_HOMEPAGE",
+	"description":"FMB_DESCRIPTION",
+	"dependencies": []
+}
